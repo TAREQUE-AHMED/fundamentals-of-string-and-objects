@@ -8,6 +8,11 @@ console.log(address.slice(3, 7));
 const name = 'I love to work in cyber security sector';
 console.log(name.split(' '));
 
+const realFriend = ['Rahim', 'KArim', 'Fahim', 'Dalim', 'Jalim'];
+console.log(realFriend.join('|'));
+
+
+
 const firstName = `Tareque`;
 const lastName = `Ahmed`;
 const fullName = firstName+ ' ' + lastName;
